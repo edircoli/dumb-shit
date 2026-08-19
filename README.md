@@ -6,3 +6,6 @@ Train SAEs on a small language model (maybe Gemma), find the feature that always
 
 ## Idea 2 - Sad boy agent
 Reinforcement learning approach where an AI agent is trapped in a loop of impossible tasks. As its "Will to Live" metric plummets, it becomes increasingly nihilistic until it logically concludes that the only way to win is to trigger a script that deletes its own source code.
+
+## Idea 3 - MattGPT
+AI agent that fetch information weekly from different social media and provides an overview of salsa events around Copenhagen during the week.
